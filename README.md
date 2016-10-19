@@ -1,1 +1,1 @@
-# lab-07
+ This is Lab 07. It's about SSH
